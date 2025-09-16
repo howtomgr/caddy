@@ -1,0 +1,62 @@
+{
+  "category": "web-servers",
+  "created_date": "2025-09-15T22:48:57.306686",
+  "default_ports": [
+    80,
+    443,
+    2019
+  ],
+  "dependencies": [],
+  "description": "Caddy is a free and open-source fast, multi-platform web server with automatic HTTPS. Written in Go, Caddy is a powerful web server that automatically obtains and renews SSL certificates, serving as a modern alternative to nginx or Apache with built-in HTTPS automation",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/web-servers/caddy",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/web-servers/caddy",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.306713",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "caddy",
+  "repository_url": "https://github.com/howtomgr/caddy",
+  "spec_version": "2.0",
+  "subcategory": "web-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "web-servers",
+    "containerization",
+    "observability",
+    "data-storage",
+    "web-services",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "Caddy Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/web-servers/caddy"
+}
